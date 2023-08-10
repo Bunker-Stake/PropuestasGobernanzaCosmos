@@ -6,3 +6,5 @@ Repositorio de propuestas de gobernanza de la red de Cosmos traducidas al españ
 - [Mintscan](https://www.mintscan.io/cosmos/proposals).
 - [Ping.pub](https://ping.pub/cosmos/gov).
 - [Bigdipper](https://bigdipper.live/cosmos/proposals).
+
+_Las propuestas se pueden encontrar en la carpeta [propuestas](propuestas)._
